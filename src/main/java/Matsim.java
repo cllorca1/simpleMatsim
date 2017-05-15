@@ -9,9 +9,6 @@ public class Matsim {
         RunSimulation rs = new RunSimulation();
         rs.runMatsim();
 
-
     }
-
-
 
 }

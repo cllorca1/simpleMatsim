@@ -152,6 +152,8 @@ public class RunSimulation {
         PopulationReader populationReader = new PopulationReader(scenario);
         populationReader.readFile(plansFile);
 
+        //alternatively create population from data
+
 
         // Initialize controller
         final Controler controler = new Controler(scenario);
