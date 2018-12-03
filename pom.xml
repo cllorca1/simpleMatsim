@@ -86,13 +86,6 @@
         </dependency>
 
 
-        <dependency>
-            <groupId>common-base</groupId>
-            <artifactId>common-base</artifactId>
-            <version>0.0.3</version>
-        </dependency>
-
-
     </dependencies>
 
     

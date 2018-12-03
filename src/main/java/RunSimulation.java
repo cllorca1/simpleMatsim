@@ -1,5 +1,3 @@
-import com.pb.common.matrix.Matrix;
-import org.matsim.api.core.v01.population.Population;
 import org.matsim.core.config.Config;
 import org.matsim.core.config.ConfigUtils;
 import org.matsim.core.config.groups.*;
@@ -10,9 +8,6 @@ import org.matsim.core.scenario.MutableScenario;
 import org.matsim.core.scenario.ScenarioUtils;
 import org.matsim.core.utils.geometry.transformations.TransformationFactory;
 
-import java.util.ArrayList;
-import java.util.Set;
-import java.util.TreeSet;
 
 /**
  * Created by carlloga on 15-05-17.
